@@ -2578,19 +2578,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\asiqu\\.nuget\\packages\\": {}
+    "C:\\Users\\Asiq\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asiqu\\OneDrive\\Desktop\\UnitTestMoq\\UnitTestMoq\\UnitTestMoq.csproj",
-      "projectName": "UnitTestMoq",
-      "projectPath": "C:\\Users\\asiqu\\OneDrive\\Desktop\\UnitTestMoq\\UnitTestMoq\\UnitTestMoq.csproj",
-      "packagesPath": "C:\\Users\\asiqu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asiqu\\OneDrive\\Desktop\\UnitTestMoq\\UnitTestMoq\\obj\\",
+      "projectUniqueName": "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\UnitTestMoq\\Project.Demo.Web.csproj",
+      "projectName": "Project.Demo.Web",
+      "projectPath": "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\UnitTestMoq\\Project.Demo.Web.csproj",
+      "packagesPath": "C:\\Users\\Asiq\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\UnitTestMoq\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\asiqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Asiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

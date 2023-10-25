@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestMoq", "UnitTestMoq\UnitTestMoq.csproj", "{CE8A4EC1-61A3-4385-8C24-2DC190C5BF69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.Demo.Web", "UnitTestMoq\Project.Demo.Web.csproj", "{CE8A4EC1-61A3-4385-8C24-2DC190C5BF69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnitTest", "xUnitTest\xUnitTest.csproj", "{A021EACB-0CE4-40F6-8F78-138DC27441BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xUnitTestMoq", "xUnitTest\xUnitTestMoq.csproj", "{A021EACB-0CE4-40F6-8F78-138DC27441BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

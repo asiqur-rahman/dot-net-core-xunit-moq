@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\UnitTestMoq\\UnitTestMoq.csproj": {}
+    "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\UnitTestMoq\\Project.Demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\UnitTestMoq\\UnitTestMoq.csproj": {
+    "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\UnitTestMoq\\Project.Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\UnitTestMoq\\UnitTestMoq.csproj",
-        "projectName": "UnitTestMoq",
-        "projectPath": "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\UnitTestMoq\\UnitTestMoq.csproj",
+        "projectUniqueName": "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\UnitTestMoq\\Project.Demo.csproj",
+        "projectName": "Project.Demo",
+        "projectPath": "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\UnitTestMoq\\Project.Demo.csproj",
         "packagesPath": "C:\\Users\\Asiq\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\UnitTestMoq\\obj\\",
         "projectStyle": "PackageReference",

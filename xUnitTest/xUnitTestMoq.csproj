@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\UnitTestMoq\UnitTestMoq.csproj" />
+    <ProjectReference Include="..\UnitTestMoq\Project.Demo.Web.csproj" />
   </ItemGroup>
 
 </Project>

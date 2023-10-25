@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\xUnitTest\\xUnitTest.csproj": {}
+    "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\xUnitTest\\xUnitTestMoq.csproj": {}
   },
   "projects": {
     "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\UnitTestMoq\\Project.Demo.Web.csproj": {
@@ -109,12 +109,12 @@
         }
       }
     },
-    "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\xUnitTest\\xUnitTest.csproj": {
+    "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\xUnitTest\\xUnitTestMoq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\xUnitTest\\xUnitTest.csproj",
-        "projectName": "xUnitTest",
-        "projectPath": "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\xUnitTest\\xUnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\xUnitTest\\xUnitTestMoq.csproj",
+        "projectName": "xUnitTestMoq",
+        "projectPath": "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\xUnitTest\\xUnitTestMoq.csproj",
         "packagesPath": "C:\\Users\\Asiq\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\xUnitTest\\obj\\",
         "projectStyle": "PackageReference",

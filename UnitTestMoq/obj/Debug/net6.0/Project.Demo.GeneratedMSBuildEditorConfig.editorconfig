@@ -7,8 +7,8 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = UnitTestMoq
-build_property.RootNamespace = UnitTestMoq
+build_property.RootNamespace = Project.Demo
+build_property.RootNamespace = Project.Demo
 build_property.ProjectDir = C:\Users\Asiq\Desktop\dot-net-core-xunit-moq\UnitTestMoq\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
@@ -42,4 +42,4 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Asiq/Desktop/dot-net-core-xunit-moq/UnitTestMoq/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-hfxk87slaz
+build_metadata.AdditionalFiles.CssScope = b-6qbt4nfn5c

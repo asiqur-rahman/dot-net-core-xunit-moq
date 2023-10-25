@@ -2534,7 +2534,7 @@
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "UnitTestMoq/1.0.0": {
+      "Project.Demo.Web/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -2547,10 +2547,10 @@
           "Swashbuckle.AspNetCore.SwaggerUI": "6.5.0"
         },
         "compile": {
-          "bin/placeholder/UnitTestMoq.dll": {}
+          "bin/placeholder/Project.Demo.Web.dll": {}
         },
         "runtime": {
-          "bin/placeholder/UnitTestMoq.dll": {}
+          "bin/placeholder/Project.Demo.Web.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -7862,35 +7862,42 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "UnitTestMoq/1.0.0": {
+    "Project.Demo.Web/1.0.0": {
       "type": "project",
-      "path": "../UnitTestMoq/UnitTestMoq.csproj",
-      "msbuildProject": "../UnitTestMoq/UnitTestMoq.csproj"
+      "path": "../UnitTestMoq/Project.Demo.Web.csproj",
+      "msbuildProject": "../UnitTestMoq/Project.Demo.Web.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.NET.Test.Sdk >= 17.5.0",
-      "UnitTestMoq >= 1.0.0",
+      "Project.Demo.Web >= 1.0.0",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.4.2",
       "xunit.runner.visualstudio >= 2.4.5"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\asiqu\\.nuget\\packages\\": {}
+    "C:\\Users\\Asiq\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asiqu\\OneDrive\\Desktop\\UnitTestMoq\\xUnitTest\\xUnitTest.csproj",
-      "projectName": "xUnitTest",
-      "projectPath": "C:\\Users\\asiqu\\OneDrive\\Desktop\\UnitTestMoq\\xUnitTest\\xUnitTest.csproj",
-      "packagesPath": "C:\\Users\\asiqu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asiqu\\OneDrive\\Desktop\\UnitTestMoq\\xUnitTest\\obj\\",
+      "projectUniqueName": "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\xUnitTest\\xUnitTestMoq.csproj",
+      "projectName": "xUnitTestMoq",
+      "projectPath": "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\xUnitTest\\xUnitTestMoq.csproj",
+      "packagesPath": "C:\\Users\\Asiq\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\xUnitTest\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\asiqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Asiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7904,8 +7911,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\asiqu\\OneDrive\\Desktop\\UnitTestMoq\\UnitTestMoq\\UnitTestMoq.csproj": {
-              "projectPath": "C:\\Users\\asiqu\\OneDrive\\Desktop\\UnitTestMoq\\UnitTestMoq\\UnitTestMoq.csproj"
+            "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\UnitTestMoq\\Project.Demo.Web.csproj": {
+              "projectPath": "C:\\Users\\Asiq\\Desktop\\dot-net-core-xunit-moq\\UnitTestMoq\\Project.Demo.Web.csproj"
             }
           }
         }
