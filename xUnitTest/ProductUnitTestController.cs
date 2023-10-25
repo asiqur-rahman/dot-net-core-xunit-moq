@@ -5,13 +5,14 @@ using UnitTestMoq.Models;
 
 namespace xUnitTest
 {
-    public class UnitTestController
+    public class ProductUnitTestController
     {
         private readonly Mock<IProductService> productService;
-        public UnitTestController()
+        public ProductUnitTestController()
         {
             productService = new Mock<IProductService>();
         }
+
         [Fact]
         public void GetProductList_ProductList()
         {
@@ -28,6 +29,7 @@ namespace xUnitTest
             Assert.Equal(GetProductsData().ToString(), productResult.ToString());
             Assert.True(productList.Equals(productResult));
         }
+
         [Fact]
         public void GetProductByID_Product()
         {
@@ -43,6 +45,7 @@ namespace xUnitTest
             Assert.Equal(productList[1].Id, productResult.Id);
             Assert.True(productList[1].Id == productResult.Id);
         }
+
         [Theory]
         [InlineData("IPhone")]
         public void CheckProductExistOrNotByProductName_Product(string productName)
